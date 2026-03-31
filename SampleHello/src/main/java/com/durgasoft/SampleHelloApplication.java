@@ -10,6 +10,8 @@ public class SampleHelloApplication {
 		SpringApplication.run(SampleHelloApplication.class, args);
 		System.out.println("******Welcome to Spring Boot Sample Application*****");
 		System.out.println("******This is my First Push*****");
+		System.out.println("******This is my Second Push*****");
+		
 	}
 
 }
